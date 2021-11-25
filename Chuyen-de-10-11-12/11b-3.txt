@@ -1,0 +1,12 @@
+Ma nhan vien: 2
+Ho ten: Nguyen B
+Dia chi: Ha Dong 
+So dien thoai: 9999
+Tien luong: 9999
+
+Ma nhan vien: 1
+Ho ten: Nguyen A
+Dia chi: Ha noi
+So dien thoai: 09238832
+Tien luong: 199999
+

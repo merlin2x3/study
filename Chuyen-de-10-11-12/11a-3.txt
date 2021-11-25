@@ -1,0 +1,8 @@
+Ma nganh: 2
+Ten nganh: Kinh te
+So luong sinh vien: 11
+Diem trung binh: 9.00--------------------------------------------------------
+Ma nganh: 1
+Ten nganh: CNTT
+So luong sinh vien: 10
+Diem trung binh: 9.00--------------------------------------------------------

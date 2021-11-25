@@ -1,0 +1,6 @@
+Ma sach: 999
+Tieu de: Sach de thanh cong
+Nha xuat ban: Dan Truong
+Nam xuat ban: 1990
+Gia tien:19999999
+------------------------------------------------------------
