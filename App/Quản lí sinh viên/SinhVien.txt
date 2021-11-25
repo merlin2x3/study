@@ -1,0 +1,10 @@
+Nguyễn Ngọc Đan Trường#05/12/2003#15066570#Nam#Công nghệ thông tin#100#10
+Nguyễn Thanh Tùng#08/06/2003#15066677#Nam#Công nghệ thông tin#80#9
+Dương Văn Tuân#24/04/2003#QG062844#Nam#Công nghệ thông tin#80#9
+Triệu Trí Trung#24/05/2003#QG060161#Nam#Công nghệ thông tin#80#9
+Phạm Quốc Tuấn#22/07/2002#QG063644#Nam#Công nghệ thông tin#80#9
+Ngô Đức Hải#08/08/2003#15066461#Nam#Công nghệ thông tin#80#9
+Học sinh này rèn luyện xuất sắc#x#3#Nữ#Quản trị kinh doanh#100#9
+Học sinh này khá#x#2#Nam#Kinh tế#100#7
+Học sinh này yếu#x#1#Nữ#abcdxyz123#100#3
+Thêm sinh viên#1#10000#Nam#CNTT#8#10
