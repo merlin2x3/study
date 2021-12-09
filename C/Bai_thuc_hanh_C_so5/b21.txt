@@ -1,0 +1,19 @@
+Xuat file ba cong ty co tien luong cao nhat:
+ Cong ty: 3
+ Dia chi: 3
+ Sdt: 3
+ So nhan vien: 3
+ Tien luong: 3
+
+ Cong ty: 4
+ Dia chi: 4
+ Sdt: 4
+ So nhan vien: 4
+ Tien luong: 4
+
+ Cong ty: 5
+ Dia chi: 5
+ Sdt: 5
+ So nhan vien: 5
+ Tien luong: 5
+
