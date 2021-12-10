@@ -1,1 +1,2 @@
 3.0.2
+Requirement : OpenGL2.0 or OpenGL3.0
