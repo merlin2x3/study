@@ -1,0 +1,30 @@
+using System;
+namespace Snake
+{
+    class Score
+    {
+        // cac bien thanh vien
+        double diem1;
+        double diem2;
+        double diem3;
+        //phuong thuc
+        public void KhoiTao()
+        {
+            diem1 = 0;
+            diem2 = 0;
+            diem3 = 0;
+        }        
+        //phuong thuc
+        public double TinhDiem()
+        {
+            return diem_snake;
+        }
+        //phuong thuc
+        public void Show()
+        {
+            Console.WriteLine("Diem1: {0}", diem1);
+            Console.WriteLine("Diem2: {0}", diem2);
+            Console.WriteLine("Diem3: {0}", diem3);
+        }
+    }
+}
