@@ -46,7 +46,8 @@ void menu_down(int &key, int n){
 	}
 	printf("-->");
 }
-void menu(int &key, char *title, int number_of_choice, ...){
+void menu(int &key, char *title, int number_of_choice, ...)//Truyền vào number_of_choice là số mục và theo sau là các tiêu đề mục
+{
 	Nocursor();
 	int x = whereX(), y = whereY();
 	va_list item;
