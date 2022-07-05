@@ -1,3 +1,2 @@
-#Các bạn Fork repository của mình về rồi chỉnh sửa file này để gửi yêu cầu cho mình nha
-#Chỗ này để các bạn yêu cầu các app hoặc các cái khó khăn biết đâu mình làm hoặc giúp được các bạn gì đó :v 
-# Ví dụ sửa file này các bạn thêm vào #App quản lí tài chính rồi Pull Request cho mình là mình biết nha =)))))
+@merlin2x3
+Author : Đan Trường
