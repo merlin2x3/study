@@ -1,2 +1,2 @@
-@merlin2x3
+@merlin2x3\n
 Author : Đan Trường
